@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11452" started-at="2021-07-29T07:52:59 IST" finished-at="2021-07-29T07:53:10 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11452" started-at="2021-07-29T07:52:59 IST" finished-at="2021-07-29T07:53:10 IST">
+      <class name="pkg_mavenTestNg.SaucelabsAutomationTestNGTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pkg_mavenTestNg.SaucelabsAutomationTestNGTest@52a86356]" name="setUp" is-config="true" duration-ms="2186" started-at="2021-07-29T07:52:59 IST" finished-at="2021-07-29T07:53:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:pkg_mavenTestNg.SaucelabsAutomationTestNGTest@52a86356]" name="Login" duration-ms="2411" started-at="2021-07-29T07:53:01 IST" finished-at="2021-07-29T07:53:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="checkout()[pri:1, instance:pkg_mavenTestNg.SaucelabsAutomationTestNGTest@52a86356]" name="checkout" duration-ms="278" started-at="2021-07-29T07:53:04 IST" finished-at="2021-07-29T07:53:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method status="PASS" signature="CustormerDetails()[pri:2, instance:pkg_mavenTestNg.SaucelabsAutomationTestNGTest@52a86356]" name="CustormerDetails" duration-ms="675" started-at="2021-07-29T07:53:04 IST" finished-at="2021-07-29T07:53:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CustormerDetails -->
+        <test-method status="PASS" signature="Logout()[pri:3, instance:pkg_mavenTestNg.SaucelabsAutomationTestNGTest@52a86356]" name="Logout" duration-ms="5196" started-at="2021-07-29T07:53:05 IST" finished-at="2021-07-29T07:53:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pkg_mavenTestNg.SaucelabsAutomationTestNGTest@52a86356]" name="tearDown" is-config="true" duration-ms="670" started-at="2021-07-29T07:53:10 IST" finished-at="2021-07-29T07:53:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pkg_mavenTestNg.SaucelabsAutomationTestNGTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

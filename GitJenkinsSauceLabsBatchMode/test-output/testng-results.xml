@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12776" started-at="2021-07-20T15:46:54Z" finished-at="2021-07-20T15:47:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12776" started-at="2021-07-20T15:46:54Z" finished-at="2021-07-20T15:47:07Z">
+      <class name="pkg_mavenTestNg.SaucelabsAutomationTestNGTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pkg_mavenTestNg.SaucelabsAutomationTestNGTest@2d209079]" name="setUp" is-config="true" duration-ms="2532" started-at="2021-07-20T21:16:54Z" finished-at="2021-07-20T21:16:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="saucelabsAutomationTestNG()[pri:0, instance:pkg_mavenTestNg.SaucelabsAutomationTestNGTest@2d209079]" name="saucelabsAutomationTestNG" duration-ms="9531" started-at="2021-07-20T21:16:57Z" finished-at="2021-07-20T21:17:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saucelabsAutomationTestNG -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pkg_mavenTestNg.SaucelabsAutomationTestNGTest@2d209079]" name="tearDown" is-config="true" duration-ms="700" started-at="2021-07-20T21:17:06Z" finished-at="2021-07-20T21:17:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pkg_mavenTestNg.SaucelabsAutomationTestNGTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
